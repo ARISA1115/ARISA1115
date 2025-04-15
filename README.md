@@ -5,9 +5,7 @@
 
 <!-- スキルセット -->
 ## 🌱 Skills
-<p align="center">
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,django,fastapi,go,docker,aws,react,githubactions,terraform,mysql" />
-</p>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=python,django,fastapi,go,docker,aws,react,githubactions,terraform,mysql" />
 
 <!-- GitHub統計 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARISA1115&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
