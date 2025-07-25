@@ -1,0 +1,11 @@
+- urls:
+    - https://qiita.com/ARISA1115/feed.atom
+  template: templates/feeds.tmpl
+  limit: 4
+  sorted: true
+
+- urls:
+    - https://zenn.dev/arisa1115/feed
+  template: templates/feeds.tmpl
+  limit: 7
+  sorted: true
