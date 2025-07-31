@@ -3,9 +3,7 @@ name: Posts Updater
 on:
   schedule:
     - cron: '0 0 * * *'
-
-permissions:
-  contents: write
+  workflow_dispatch:
 
 jobs:
   update-posts:
