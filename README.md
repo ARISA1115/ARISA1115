@@ -19,7 +19,7 @@
 ## 🧾 Articles
 <!-- feeds:start -->
 
-### ![](./image/qiita.png)  Qiita
+* [![](./image/qiita.png) FastAPI と DynamoDB Local を使った開発環境構築と動作検証ログ](https://qiita.com/ARISA1115/items/78ad5fc98dfd265941fb)
 
 * [![](./image/qiita.png) React × TypeScript × Next.js でポートフォリオを制作して学んだこと](https://qiita.com/ARISA1115/items/96ce590dad1fe147c28b)
 
@@ -27,9 +27,7 @@
 
 * [![](./image/qiita.png) Amazon Q Developer CLI で2Dゲーム「Element Catcher」を開発してみた](https://qiita.com/ARISA1115/items/0625fb1415e1c005ccd4)
 
-* [![](./image/qiita.png) CloudFormationでRDSパラメータを設計した理由と設計の考え方](https://qiita.com/ARISA1115/items/b52a6dfa607936833a1a)
 
-### ![](./image/zenn.png)  Zenn
 
 * [![](./image/zenn.png) データベースの基本](https://zenn.dev/arisa1115/articles/da92685dfc4ebd)
 
@@ -40,6 +38,7 @@
 * [![](./image/zenn.png) VirtualBoxで仮想マシンを作成し、NAT接続とブリッジ接続を学ぶ - AlmaLinux編](https://zenn.dev/arisa1115/articles/3505b1e379ab71)
 
 * [![](./image/zenn.png) 仮想技術とネットワーク接続の基礎解説](https://zenn.dev/arisa1115/articles/06a757878d46dc)
+
 
 <!-- feeds:end -->
 
