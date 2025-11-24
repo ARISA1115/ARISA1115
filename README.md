@@ -15,6 +15,14 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARISA1115&show_icons=true&theme=transparent)
 
 
+## <img src="./image/thm.png" width="50" height="50" style="vertical-align: middle;"> TryHackMe
+
+<p align="center">
+  <a href="https://tryhackme.com/p/ar1sa" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ar1sa.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
 
 ## 🧾 Articles
 <!-- feeds:start -->
