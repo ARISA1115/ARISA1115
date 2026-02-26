@@ -6,14 +6,16 @@
 <!-- スキルセット -->
 ## 🌱 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,go,docker,aws,react,githubactions,terraform,mysql" width="700" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,go,docker,aws,gcp,react,githubactions,terraform,mysql" width="700" />
 </p>
 
 
 <!-- GitHub統計 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARISA1115&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARISA1115&show_icons=true&theme=transparent)
-
+<p align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARISA1115&theme=transparent" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARISA1115&theme=transparent" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARISA1115&theme=transparent&utcOffset=9" />
+</p>
 
 ## <img src="./image/thm.png" width="50" height="50" style="vertical-align: middle;"> TryHackMe
 
@@ -49,11 +51,3 @@
 
 
 <!-- feeds:end -->
-
-
-## 🏆 GitHub Trophy
-
-<!-- トロフィー -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARISA1115&theme=flat&margin-w=15&margin-h=15" />
-</p>
