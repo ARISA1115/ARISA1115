@@ -6,7 +6,7 @@
 <!-- スキルセット -->
 ## 🌱 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,go,docker,aws,gcp,react,vue,githubactions,terraform,mysql" width="700" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,go,docker,aws,gcp,react,vue,githubactions,terraform,mysql,postgresql" width="700" />
 </p>
 
 
