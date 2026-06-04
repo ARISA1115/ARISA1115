@@ -39,5 +39,15 @@
 
 
 
+* [![](./image/zenn.png) データベースの基本](https://zenn.dev/arisa1115/articles/da92685dfc4ebd)
+
+* [![](./image/zenn.png) VirtualBoxでApache/Nginxを使ったWebサーバーの構築方法](https://zenn.dev/arisa1115/articles/05bad136c20d84)
+
+* [![](./image/zenn.png) Webサーバーの役割とHTTP通信について](https://zenn.dev/arisa1115/articles/b5081548b8c246)
+
+* [![](./image/zenn.png) VirtualBoxで仮想マシンを作成し、NAT接続とブリッジ接続を学ぶ - AlmaLinux編](https://zenn.dev/arisa1115/articles/3505b1e379ab71)
+
+* [![](./image/zenn.png) 仮想技術とネットワーク接続の基礎解説](https://zenn.dev/arisa1115/articles/06a757878d46dc)
+
 
 <!-- feeds:end -->
